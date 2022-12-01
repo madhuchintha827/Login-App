@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.button {
+  background-color: #ffffff;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #303150;
+  border-radius: 5px;
+  border-width: 0px;
+}

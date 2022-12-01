@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sub-container {
+  height: 45vh;
+  width: 50%;
+  background-image: linear-gradient(to bottom, #303150, #b5b9ff);
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
